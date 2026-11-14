@@ -176,7 +176,7 @@ When rounding logic is more nuanced, avoid relying on the `round()` keyword and 
 
 |||
 |:---|:---|
-|[MITRE CWE](http://cwe.mitre.org/)|Pillar [CWE-682, Incorrect Conversion between Numeric Types (mitre.org)](http://cwe.mitre.org/data/definitions/682.html)|
+|[MITRE CWE](http://cwe.mitre.org/)|Pillar [CWE-682, Incorrect Calculation (mitre.org)](http://cwe.mitre.org/data/definitions/682.html)|
 |[MITRE CWE](http://cwe.mitre.org/)|Class [CWE-197, Numeric Truncation Error](https://cwe.mitre.org/data/definitions/197.html)|
 |[SEI CERT C Coding Standard](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard)|[INT31-C. Ensure that integer conversions do not result in lost or misinterpreted data](https://wiki.sei.cmu.edu/confluence/display/c/INT31-C.+Ensure+that+integer+conversions+do+not+result+in+lost+or+misinterpreted+data)|
 |[SEI CERT C Coding Standard](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard)|[FLP34-C. Ensure that floating-point conversions are within range of the new type](https://wiki.sei.cmu.edu/confluence/display/c/FLP34-C.+Ensure+that+floating-point+conversions+are+within+range+of+the+new+type)|
