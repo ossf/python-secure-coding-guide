@@ -172,7 +172,7 @@ False
 |||
 |:---|:---|
 |[MITRE CWE](http://cwe.mitre.org/)|Pillar: [CWE-697: Incorrect Comparison](https://cwe.mitre.org/data/definitions/697.html)|
-|[MITRE CWE](http://cwe.mitre.org/)|Variant: [CWE-595](https://cwe.mitre.org/data/definitions/197.html), Comparison of Object References Instead of Object Contents|
+|[MITRE CWE](http://cwe.mitre.org/)|Variant: [CWE-595](https://cwe.mitre.org/data/definitions/595.html), Comparison of Object References Instead of Object Contents|
 |[SEI CERT for Java](https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java)|[EXP02-J. Do not use the Object.equals() method to compare two arrays](https://wiki.sei.cmu.edu/confluence/display/java/EXP02-J.+Do+not+use+the+Object.equals%28%29+method+to+compare+two+arrays)|
 
 ## Bibliography
