@@ -35,8 +35,8 @@ unknown
 |||
 |:---|:---|
 |[MITRE CWE](http://cwe.mitre.org/)|Pillar [CWE-664: Improper Control of a Resource Through its Lifetime (4.13) (mitre.org)](https://cwe.mitre.org/data/definitions/664.html)|
-|[MITRE CWE](http://cwe.mitre.org/)|Base [CWE - CWE-501: Trust Boundary Violation (4.12) (mitre.org)](https://cwe.mitre.org/data/definitions/501.html)|
-|[MITRE CWE](http://cwe.mitre.org/)|Base [CWE - CWE-306: Missing Authentication for Critical Function (4.12) (mitre.org)](https://cwe.mitre.org/data/definitions/306.html)|
+|[MITRE CWE](http://cwe.mitre.org/)|Class [CWE - CWE-501: Trust Boundary Violation (4.12) (mitre.org)](https://cwe.mitre.org/data/definitions/501.html)|
+|[MITRE CWE](http://cwe.mitre.org/)|Base [CWE - CWE-306: Missing Authentication for Critical Functionality (4.12) (mitre.org)](https://cwe.mitre.org/data/definitions/306.html)|
 |[MITRE CWE](http://cwe.mitre.org/)|Class [CWE - CWE-269: Improper Privilege Management (4.12) (mitre.org)](https://cwe.mitre.org/data/definitions/269.html)|
 |[OWASP Top 10:2021](https://owasp.org/Top10/A04_2021-Insecure_Design/)|[A04 Insecure Design - OWASP Top 10:2021](https://owasp.org/Top10/A04_2021-Insecure_Design/)|
 

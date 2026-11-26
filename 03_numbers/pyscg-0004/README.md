@@ -140,7 +140,7 @@ while counter <= target:
 |||
 |:---|:---|
 |[MITRE CWE](http://cwe.mitre.org/)|Pillar [CWE-664: Improper Control of a Resource Through its Lifetime (4.13) (mitre.org)](https://cwe.mitre.org/data/definitions/664.html)|
-|[MITRE CWE](http://cwe.mitre.org/)|Class [CWE-197: Numeric Truncation Error](https://cwe.mitre.org/data/definitions/197.html)|
+|[MITRE CWE](http://cwe.mitre.org/)|Base [CWE-197: Numeric Truncation Error](https://cwe.mitre.org/data/definitions/197.html)|
 |[SEI CERT Coding Standard for Java](https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java)|[NUM09-J. Do not use floating-point variables as loop counters](https://wiki.sei.cmu.edu/confluence/display/java/NUM09-J.+Do+not+use+floating-point+variables+as+loop+counters)|
 |[SEI CERT C Coding Standard](https://web.archive.org/web/20220511061752/https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard)|[FLP30-C. Do not use floating-point variables as loop counters](https://web.archive.org/web/20220511061752/https://wiki.sei.cmu.edu/confluence/display/c/FLP30-C.+Do+not+use+floating-point+variables+as+loop+counters)|
 |\[ISO/IEC TR 24772:2019\]|Programming languages — Guidance to avoiding vulnerabilities in programming languages, available from [https://www.iso.org/standard/71091.html](https://www.iso.org/standard/71091.html)|

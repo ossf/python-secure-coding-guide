@@ -308,7 +308,7 @@ unknown
 |||
 |:---|:---|
 |[MITRE CWE](http://cwe.mitre.org/)|Pillar [CWE-664: Improper Control of a Resource Through its Lifetime (4.13) (mitre.org)](https://cwe.mitre.org/data/definitions/664.html)|
-|[MITRE CWE](http://cwe.mitre.org/)|Base [CWE-410, Insufficient Resource Pool](http://cwe.mitre.org/data/definitions/410.html)|
+|[MITRE CWE](http://cwe.mitre.org/)|Class [CWE-410, Insufficient Resource Pool](http://cwe.mitre.org/data/definitions/410.html)|
 |[SEI CERT Coding Standard for Java](https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java)|[TPS00-J. Use thread pools to enable graceful degradation of service during traffic bursts](https://wiki.sei.cmu.edu/confluence/display/java/TPS00-J.+Use+thread+pools+to+enable+graceful+degradation+of+service+during+traffic+bursts)|
 
 ## Biblography

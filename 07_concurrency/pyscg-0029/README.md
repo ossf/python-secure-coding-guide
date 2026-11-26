@@ -413,7 +413,7 @@ for future in futures:
 |||
 |:---|:---|
 |[MITRE CWE](http://cwe.mitre.org/)|Pillar [CWE-664: Improper Control of a Resource Through its Lifetime (4.13) (mitre.org)](https://cwe.mitre.org/data/definitions/664.html)|
-|[MITRE CWE](http://cwe.mitre.org/)|Base [CWE-665, Improper Initialization](https://cwe.mitre.org/data/definitions/665.html)|
+|[MITRE CWE](http://cwe.mitre.org/)|Class [CWE-665, Improper Initialization](https://cwe.mitre.org/data/definitions/665.html)|
 |[SEI CERT Coding Standard for Java](https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java)|[TPS04-J. Ensure ThreadLocal variables are reinitialized when using thread pools](https://wiki.sei.cmu.edu/confluence/display/java/TPS04-J.+Ensure+ThreadLocal+variables+are+reinitialized+when+using+thread+pools)|
 
 ## Biblography
